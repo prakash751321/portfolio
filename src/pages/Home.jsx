@@ -11,9 +11,6 @@ function Home() {
 
   return (
     <div id="home">
-      {/* <p className='text-yellow-300 text-3xl mt-8'>Hii i am <br /> <span className='text-6xl text-white ml-4 font-["Qwitcher_Grypen"]'>Jyoti Prakash Nayak</span></p>
-      <p className='text-cyan-300 text-3xl '>Front-End Developer</p> */}
-      {/* <SocialMediaIcons/> */}
       <header className="bg-white shadow">
         <div className="max-w-7xl mx-auto py-12 px-4 sm:px-6 lg:px-8 text-center">
           <h1 className="text-4xl font-extrabold text-gray-900">
@@ -37,8 +34,5 @@ function Home() {
   );
 }
 
-<<<<<<< HEAD
-export default Home
-=======
 export default Home;
 >>>>>>> 3277fc8 (downloadable cv renamed)
