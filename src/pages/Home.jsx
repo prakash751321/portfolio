@@ -35,4 +35,3 @@ function Home() {
 }
 
 export default Home;
->>>>>>> 3277fc8 (downloadable cv renamed)
