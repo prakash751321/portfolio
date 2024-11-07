@@ -50,7 +50,7 @@ function Contact() {
       </div>
       <div className="mt-10 flex justify-center space-x-4">
         <FaPhoneAlt className="h-6 w-6" />
-        <span className="font-semibold text-xl">+91 9658320380</span>
+        <span className="font-semibold text-xl">+91 9658320380 </span>
       </div>
     </section>
   );
