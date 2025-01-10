@@ -4,8 +4,8 @@ function Home() {
   const handleDownload = () => {
     // This will trigger the download of the CV file
     const link = document.createElement("a");
-    link.href = "./Jyoti_Prakash_Resume.pdf"; // Update the path if your CV is in a different location
-    link.download = "Jyoti_Prakash_Resume.pdf"; // The name that will be used for the downloaded file
+    link.href = "./Jyoti_Prakash's_Resume.pdf"; // Update the path if your CV is in a different location
+    link.download = "Jyoti_Prakash's_Resume.pdf"; // The name that will be used for the downloaded file
     link.click();
   };
 
