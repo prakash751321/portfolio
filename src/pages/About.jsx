@@ -30,9 +30,10 @@ function About() {
               who is really passionate about making dynamic, interesting, and
               easy-to-use user interfaces for mobile and online applications.
               Having worked on a variety of projects using technologies
-              including HTML, CSS, Tailwind CSS, JavaScript, React JS, Redux
-              Toolkit, Node JS, Express JS, RestAPIs, Mongo DB, MySQL, GIT, and
-              Firebase, I have six months of expertise in front-end programming.
+              including C, J2SE, J2EE, HTML, CSS, Tailwind CSS, JavaScript,
+              React JS, Redux Toolkit, Node js, Express js, MySQL Database,
+              Mongo Db, Linux, Operating Systems, GIT, Firebase. I have 1 year
+              hands on expertise in front-end programming.
             </p>
             <p className="text-lg text-gray-700 mb-4">
               I enjoy turning complex problems into simple, elegant solutions
@@ -41,8 +42,9 @@ function About() {
               experience.
             </p>
             <p className="text-lg text-gray-700 mb-4">
-              I enjoy taking nature photos and traveling to new locations in my spare time. 
-              Even so, I enjoy watching and reading tech-related videos and articles.
+              I enjoy taking nature photos and traveling to new locations in my
+              spare time. Even so, I enjoy watching and reading tech-related
+              videos and articles.
             </p>
 
             {/* Skills Section */}
@@ -51,12 +53,14 @@ function About() {
                 Skills
               </h3>
               <ul className="text-lg text-gray-700 space-y-2">
+                <li>- C</li>
+                <li>- J2SE, J2EE</li>
                 <li>- HTML, CSS, Tailwind Css, JavaScript</li>
                 <li>- React.js, Redux Toolkit</li>
                 <li>- Node js, Express js, RestAPIs </li>
                 <li>- Mongo Db, MySQL </li>
+                <li>- Linux, Operating Systems</li>
                 <li>- GIT, Firebase </li>
-                
               </ul>
             </div>
 
